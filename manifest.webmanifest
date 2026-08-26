@@ -1,0 +1,11 @@
+{
+  "name": "MDS Bajas Internas",
+  "short_name": "MDS Bajas",
+  "description": "Control interno de entradas y bajas de almacén mediante código de barras.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#1C6FB8",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
